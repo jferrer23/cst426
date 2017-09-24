@@ -146,10 +146,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Project\Entity.cpp" />
-    <ClCompile Include="Project\Skeleton.cpp" />
-    <ClCompile Include="Project\Statue.cpp" />
-    <ClCompile Include="Project\World.cpp" />
+    <ClCompile Include="Project\Entity.h" />
+    <ClCompile Include="Project\Skeleton.h" />
+    <ClCompile Include="Project\Statue.h" />
+    <ClCompile Include="Project\World.h" />
     <ClCompile Include="Test\Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

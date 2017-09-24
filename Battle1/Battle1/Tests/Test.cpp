@@ -1,4 +1,6 @@
-#include "../Project/Spawner.cpp"
+#include "../Project/Spawner.h"
+/***************************Prototype Pattern***********************************/
+
 
 /*Test for Prototype Pattern*/
 int main()

@@ -1,4 +1,4 @@
-#include "../Project/Subclass-Superpowers.cpp"
+#include "../Project/Subclass-Superpowers.h"
 /******************************Subclass Sandbox Pattern***********************************/
 
 

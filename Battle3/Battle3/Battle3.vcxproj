@@ -146,8 +146,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Project\Subclass-Superpowers.cpp" />
-    <ClCompile Include="Project\Superpower.cpp" />
+    <ClCompile Include="Project\Subclass-Superpowers.h" />
+    <ClCompile Include="Project\Superpower.h" />
     <ClCompile Include="Tests\Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

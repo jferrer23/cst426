@@ -146,8 +146,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Project\Monster.cpp" />
-    <ClCompile Include="Project\Spawner.cpp" />
+    <ClCompile Include="Project\Monster.h" />
+    <ClCompile Include="Project\Spawner.h" />
     <ClCompile Include="Tests\Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
